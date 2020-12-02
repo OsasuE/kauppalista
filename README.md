@@ -1,2 +1,2 @@
 # kauppalista
-Kauppalista kauppaan
+Kauppalista kauppaan.
